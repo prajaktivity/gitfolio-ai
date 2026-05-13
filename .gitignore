@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/.env
+
+# Frontend
+frontend/.env.local
+frontend/.next/
+frontend/out/
+
+# General
+.DS_Store
+*.log
